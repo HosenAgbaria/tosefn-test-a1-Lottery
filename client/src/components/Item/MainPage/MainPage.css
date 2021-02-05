@@ -1,0 +1,55 @@
+.mainPage {
+  text-align: center;
+}
+.user {
+  border: solid 2px black;
+  padding: 10px;
+  min-width: 100px;
+  width: fit-content;
+  margin: 30px auto;
+}
+
+.goTo {
+  padding: 15px;
+  border: solid 2px black;
+
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  /* margin-bottom: 20px; */
+}
+
+.goTo:hover {
+  color: black;
+  background-color: white;
+}
+.welcome{
+  border-bottom: solid  black;
+  font-size: 2rem;
+  width: fit-content;
+  text-align: center;
+  margin: 30px auto;
+  font-weight: bold;
+}
+.namesInput{
+  width: 400px;
+  height: 10px;
+  padding: 10px;
+}
+.addButton{
+
+  border-bottom: solid  black;
+  width: fit-content;
+  font-weight: bold;
+  border: solid 2px black; 
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+}
+.addButton:hover{
+  background-color: white;
+  color: black;
+}

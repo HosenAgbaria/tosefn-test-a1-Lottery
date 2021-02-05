@@ -1,0 +1,36 @@
+.lotteryPage {
+  text-align: center;
+  background: url("https://st4.depositphotos.com/5952438/24037/v/1600/depositphotos_240377806-stock-illustration-winner-background-podium-confetti-spotlights.jpg");
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  bottom: 0;
+}
+.title {
+  width: 240px;
+  text-align: center;
+  margin: 50px auto;
+  padding: 50px;
+}
+
+.button {
+  border: solid 2px black;
+  padding: 15px;
+  position: relative;
+  top: 150px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+.button:hover {
+  color: black;
+  background-color: white;
+}
+
+.winner {
+  border: solid 2px black;
+  width: fit-content;
+  margin: 20px auto;
+  padding: 10px;
+}
